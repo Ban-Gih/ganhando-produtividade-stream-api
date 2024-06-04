@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.BinaryOperator;
 
+//Desafio 2 - Imprima a soma dos números pares da lista:
+//Utilizando a Stream API, realize a soma dos números pares da lista e exiba o resultado no console.
+
 public class Desafio02 {
 
     public static void main(String[] args) {

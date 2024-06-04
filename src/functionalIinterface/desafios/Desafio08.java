@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.BinaryOperator;
 
+//Desafio 8 - Somar os dígitos de todos os números da lista:
+//Utilizando a Stream API, realize a soma dos dígitos de todos os números da lista e exiba o resultado no console.
+
 public class Desafio08 {
 
     public static void main(String[] args) {

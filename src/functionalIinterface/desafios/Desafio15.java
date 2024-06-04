@@ -3,6 +3,9 @@ package functionalIinterface.desafios;
 import java.util.Arrays;
 import java.util.List;
 
+//Desafio 15 - Verifique se a lista contém pelo menos um número negativo:
+//Utilizando a Stream API, verifique se a lista contém pelo menos um número negativo e exiba o resultado no console.
+
 public class Desafio15 {
 
     public static void main(String[] args) {

@@ -3,6 +3,9 @@ package functionalIinterface.desafios;
 import java.util.Arrays;
 import java.util.List;
 
+//Desafio 13 - Filtrar os números que estão dentro de um intervalo:
+//Utilize a Stream API para filtrar os números que estão dentro de um intervalo específico (por exemplo, entre 5 e 10) e exiba o resultado no console.
+
 public class Desafio13 {
     public static void main(String[] args) {
 

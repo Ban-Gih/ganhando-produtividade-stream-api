@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
+//Desafio 14 - Encontre o maior número primo da lista:
+//Com a Stream API, encontre o maior número primo da lista e exiba o resultado no console.
+
 public class Desafio14 {
 
     public static void main(String[] args) {
