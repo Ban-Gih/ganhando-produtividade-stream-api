@@ -1,4 +1,4 @@
-package functionalIinterface.streamApi;
+package functionalIinterface.desafios;
 
 import java.util.Arrays;
 import java.util.List;

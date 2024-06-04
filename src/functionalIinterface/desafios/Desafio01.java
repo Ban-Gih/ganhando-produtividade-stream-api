@@ -1,8 +1,7 @@
-package functionalIinterface.streamApi;
+package functionalIinterface.desafios;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Desafio01 {
 
